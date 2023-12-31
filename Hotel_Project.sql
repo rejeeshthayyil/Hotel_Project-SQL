@@ -10,7 +10,7 @@
 -- we want to uderstand that is there any trend gust with personal cars.
 
 --What trend can we see in the data?
--- Focus on average daily rate and gusts to explore seasonality.
+-- Focus on average daily rate and gusts to explore seasonality.ggggg
 
   select * from year2018
   Union
